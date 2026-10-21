@@ -5,8 +5,10 @@ int main()
 	int choice;
 	printf("Enter two numbers:");
 	scanf("%f %f",&a,&b);
-	printf("1. Addition\n 2. Subtraction\n");
-	printf("3. Multiplication\n 3. Division\n ");
+	printf("1. Addition\n");
+	printf("2. Subtraction\n");
+	printf("3. Multiplication\n");
+	printf("4. Division\n");
 	printf("Enter choice");
 	scanf("%d",&choice);
 	
