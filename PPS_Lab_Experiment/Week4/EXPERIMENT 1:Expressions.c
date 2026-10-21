@@ -9,7 +9,7 @@ int main()
 	   printf("b=%d\n",A/B*C-B+A*D/3);
 	else 
 	   printf("B cannot be zero for expression b\n");
-	   printf("Not evaluated");   	
+	      	
 return 0;
 		 	
 }
